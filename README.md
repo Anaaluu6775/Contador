@@ -1,0 +1,3 @@
+NOME: Ana Luisa Costa da Silva
+
+- Neste projeto, aprendi na prática como o estado funciona em um aplicativo feito com Jetpack Compose. Percebi que o State guarda o valor atual do contador e, sempre que esse valor muda, o Compose identifica a alteração e atualiza a tela automaticamente. A lógica de aumentar e diminuir o contador foi uma das partes que entendi com mais facilidade, enquanto outras etapas do desenvolvimento foram mais desafiadoras, já que ainda estou me familiarizando com o Android Studio e com a estrutura do Compose. O principal aprendizado foi compreender como a lógica do app e a atualização visual da interface se conectam por meio do estado.
